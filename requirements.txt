@@ -3,3 +3,8 @@ Flask==3.0.2
 spotipy==2.24.0
 
 streamlit==1.32.2
+
+python-dotenv
+
+keybert
+sentence-transformers  # KeyBERT dependency
